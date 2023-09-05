@@ -279,3 +279,4 @@ django_cookiecutter_example/media/
 .env
 .envs/*
 !.envs/.local/
+.idea
